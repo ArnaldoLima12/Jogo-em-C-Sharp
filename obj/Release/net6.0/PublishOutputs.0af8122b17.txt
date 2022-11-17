@@ -1,0 +1,15 @@
+C:\Users\Arnaldo\Videos\DarkLand\Musica\Capra.wav
+C:\Users\Arnaldo\Videos\DarkLand\Musica\YouDied.wav
+C:\Users\Arnaldo\Videos\DarkLand\Musica\Zelda.wav
+C:\Users\Arnaldo\Videos\DarkLand\DarkLand.exe
+C:\Users\Arnaldo\Videos\DarkLand\DarkLand.dll
+C:\Users\Arnaldo\Videos\DarkLand\DarkLand.deps.json
+C:\Users\Arnaldo\Videos\DarkLand\DarkLand.runtimeconfig.json
+C:\Users\Arnaldo\Videos\DarkLand\DarkLand.pdb
+C:\Users\Arnaldo\Videos\DarkLand\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arnaldo\Videos\DarkLand\System.Drawing.Common.dll
+C:\Users\Arnaldo\Videos\DarkLand\System.Windows.Extensions.dll
+C:\Users\Arnaldo\Videos\DarkLand\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Arnaldo\Videos\DarkLand\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Arnaldo\Videos\DarkLand\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Arnaldo\Videos\DarkLand\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
