@@ -23,7 +23,7 @@ namespace Game
                 try
                 {
 
-                    Console.WriteLine($"{"|---------------OvoLand--------------|".PadLeft(80)}\n");
+                    Console.WriteLine($"{"|---------------DarkLand--------------|".PadLeft(80)}\n");
                     Console.WriteLine("Escolha uma opção:\n 1- Iniciar\n 2- Sair\n");
 
                     Console.Write("Escolha: ");
@@ -60,7 +60,7 @@ namespace Game
         {
             if (OperatingSystem.IsWindows())
             {
-                Console.Title = "|OvoLand|";
+                Console.Title = "|DarkLand|";
                 Console.ForegroundColor = ConsoleColor.DarkYellow;
                 SoundPlayer player = new SoundPlayer("Musica/Zelda.wav");
                 player.Load();

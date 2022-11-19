@@ -1,5 +1,4 @@
 ﻿using Propriedades;
-using Game;
 using System;
 using Historias;
 
@@ -11,7 +10,7 @@ namespace CriaPersonagem
         {
             Jogador p1 = new Jogador();
             
-            Console.WriteLine($"{"--------Bem vindo a OvoLand--------".PadLeft(80)}\n");
+            Console.WriteLine($"{"--------Bem vindo a DarkLand--------".PadLeft(80)}\n");
 
             Console.Write("Diga seu nome: ");
             string Nome = Console.ReadLine();
