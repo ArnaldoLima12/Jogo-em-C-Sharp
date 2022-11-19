@@ -25,7 +25,7 @@ namespace Fases2
                 }
                 catch
                 {
-                    Console.WriteLine("\n\n\t\tValor invalido!\n\n");
+                    Console.WriteLine("\n\n\t\tValor inválido!\n\n");
                     Thread.Sleep(2000);
                     v = 1;
                 }

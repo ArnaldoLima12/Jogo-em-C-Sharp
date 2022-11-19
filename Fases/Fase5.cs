@@ -33,7 +33,7 @@ namespace Fases5
 
             Thread.Sleep(2000);
             Console.Clear();
-            Console.WriteLine("Historia Comcluida!");
+            Console.WriteLine("História Concluída!");
             Thread.Sleep(10000);
             Console.Clear();
             Menu.Comeco();
