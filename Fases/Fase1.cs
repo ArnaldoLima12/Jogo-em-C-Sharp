@@ -24,7 +24,7 @@ namespace Fases
                 }
                 catch
                 {
-                    Console.WriteLine("\n\n\t\tValor invalido!\n\n");
+                    Console.WriteLine("\n\n\t\tValor inválido!\n\n");
                     Thread.Sleep(2000);
                     v = 1;
                 }
@@ -42,7 +42,7 @@ namespace Fases
            
             Console.WriteLine("\n\nVida Inimigo: " + Inimigos1.GetVida());
             Console.WriteLine("---------------------------------------------------------------------");
-            Console.Write("\nDeseja atacar? Sim(1) Nao(0)\nEscolha: ");
+            Console.Write("\nDeseja atacar? Sim(1) Não(0)\nEscolha: ");
             int dec = int.Parse(Console.ReadLine());
 
             while (c == 1)
@@ -67,10 +67,10 @@ namespace Fases
                                    Console.WriteLine("---------------------------------------------------------------------");
 
                                    if (Inimigos1.GetVida() > 1)
-                                        {
-                                            Console.Write("\nDeseja atacar? Sim(1) Nao(0)\nEscolha: ");
+                                   {
+                                            Console.Write("\nDeseja atacar? Sim(1) Não(0)\nEscolha: ");
                                             dec = int.Parse(Console.ReadLine());
-                                        }
+                                   }
                                 }
                           }
                           else
@@ -86,7 +86,7 @@ namespace Fases
                 }
                 else if(dec == 0)
                 {
-                    Console.Write("\nOpcoes:\n1.Usar Pocao\nEscolha: ");
+                    Console.Write("\nOpções:\n1.Usar Poção\nEscolha: ");
                     int escolha = int.Parse(Console.ReadLine());
                     if(escolha == 1)
                     {
@@ -106,7 +106,7 @@ namespace Fases
 
                     if (Inimigos1.GetVida() > 1)
                     {
-                        Console.Write("\nDeseja atacar? Sim(1) Nao(0)\nEscolha: ");
+                        Console.Write("\nDeseja atacar? Sim(1) Não(0)\nEscolha: ");
                         dec = int.Parse(Console.ReadLine());
                     }
                     else 
